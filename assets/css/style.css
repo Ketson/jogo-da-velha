@@ -1,3 +1,8 @@
+body{
+	background-color: aquamarine;
+}
+
+
 .row [class^=col-], .row .col {
 	height:170px;
 	background-color: #ddd;
