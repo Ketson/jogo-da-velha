@@ -2,6 +2,12 @@ body{
 	background-color: aquamarine;
 }
 
+.rodape {
+	color: black;
+	font-family: Arial;
+	padding: 0px;
+}
+
 
 .row [class^=col-], .row .col {
 	height:170px;
