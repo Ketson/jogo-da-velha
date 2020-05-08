@@ -1,0 +1,40 @@
+.row [class^=col-], .row .col {
+	height:170px;
+	background-color: #ddd;
+	border: 3px solid #ccc;
+}
+
+.row{
+	width: 500px;
+	margin: 1px;
+}
+
+.col{
+	margin:1.5px;
+}
+
+.container{
+	width: 600px;
+	height: 620px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+h1{
+	display: flex;
+	justify-content: center;
+}
+
+#mostrador{
+	display: flex;
+	align-items: center;
+}
+
+.row img{
+	display: flex;
+	height: 80px;
+	margin-top: 40px;
+	margin-left: 20px;
+}
